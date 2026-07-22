@@ -1,0 +1,15 @@
+data/raw/*.json
+data/bronze/
+data/silver/
+data/gold/
+data/_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+.env
+NOTES.md
+logs/
+airflow.db
+airflow.cfg
